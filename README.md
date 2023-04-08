@@ -1,5 +1,4 @@
 # Bookshelf API
 
 Dicoding Submission <br>
-Node.js with Hapi.js <br>
-hehehe
+Node.js with Hapi.js
